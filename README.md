@@ -25,3 +25,18 @@ If you are developing a production application, we recommend using TypeScript wi
 ```bash
 npm install
 npm run dev
+Scripts
+dev: start Vite dev server
+build: production build
+preview: preview production build
+test: unit tests (Vitest)
+Features
+Pages: Home, Books, Book Details, Cart, Checkout, Success
+Search, filter, sort
+Add/remove cart, quantity controls, localStorage persistence
+Order placement (mock), success screen
+Error boundary and async error handling
+Structure
+src/app, src/features, src/pages, src/components
+Deployment
+Deployed on Vercel (static, no backend)
