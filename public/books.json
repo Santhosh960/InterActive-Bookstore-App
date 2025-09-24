@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "description": "A classic guide to pragmatic software craftsmanship.",
+    "price": 42.99,
+    "category": "Technology",
+    "rating": 4.8,
+    "reviews": 12456,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41as+WafrFL._SX258_.jpg",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship.",
+    "price": 38.50,
+    "category": "Technology",
+    "rating": 4.7,
+    "reviews": 15632,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX374_BO1,204,203,200_.jpg",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "Tiny changes, remarkable results.",
+    "price": 18.99,
+    "category": "Self-Help",
+    "rating": 4.8,
+    "reviews": 20345,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51-uspgqWIL._SX329_BO1,204,203,200_.jpg",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "description": "A coming-of-age crime drama set in the marshes of North Carolina.",
+    "price": 14.99,
+    "category": "Fiction",
+    "rating": 4.6,
+    "reviews": 8923,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41j2bgp4A9L._SX329_BO1,204,203,200_.jpg",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "description": "A memoir about a woman who leaves her survivalist family and goes on to earn a PhD.",
+    "price": 16.99,
+    "category": "Biography",
+    "rating": 4.7,
+    "reviews": 7344,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41vC0xO8w-L._SX331_BO1,204,203,200_.jpg",
+    "stock": 14
+  },
+  {
+    "id": 6,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "description": "Between life and death there is a library...",
+    "price": 13.99,
+    "category": "Fiction",
+    "rating": 4.5,
+    "reviews": 5123,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41Y8D7L5VTL._SX329_BO1,204,203,200_.jpg",
+    "stock": 20
+  }
+]
